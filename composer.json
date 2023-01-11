@@ -1,0 +1,26 @@
+{
+  "name": "deiviny/crmsite",
+  "description": "Sistema para medir a saude dos funcionarios",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Deiviny Lamarck",
+      "email": "deiviny@hotmail.com"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Model\\": "model/"
+    },
+    "classmap": ["model/"],
+    "files": [      
+    ]
+  },
+  "require": {
+    "phpmailer/phpmailer": "6.1.*"    
+  }
+}
