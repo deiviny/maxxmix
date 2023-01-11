@@ -90,7 +90,7 @@
                         </h1>
                         <p class="mt-3 text-base text-gray-500 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0">
                             O objetivo do Maxx Mix é disponibilizar os melhores produtos para nossos clientes, aumentando sua produtividade, segurança e ganho. <br>                            
-                        </p>
+                        </p>                        
                         <!-- <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                             <div class="rounded-md shadow">
                                 <a href="https://crm.crmsimpled.com.br/" class="flex w-full items-center justify-center rounded-md border border-transparent bg-green-300 px-8 py-3 text-base font-medium text-black hover:bg-green-500 md:py-4 md:px-10 md:text-lg">Acessar</a>
@@ -99,6 +99,13 @@
                                 <a href="#" id="btn_evolua" class="flex w-full items-center justify-center rounded-md border border-transparent border-solid border-green-400 bg-white px-8 py-3 text-base font-medium text-black hover:bg-gray-100 md:py-4 md:px-10 md:text-lg">Evolua Agora!</a>
                             </div>
                         </div> -->
+                    </div>
+                    <div class="sm:text-center lg:text-center">
+                        <h1 class="text-2xl font-bold tracking-tight text-gray-900 sm:text-2xl md:text-2xl">
+                            <span class="block text-green-400 xl:inline"> Whatsapp</span>
+                            <span class="block xl:inline">(62) 99951-6565</span><br>
+                            <span class="block xl:inline">Amilton</span>
+                        </h1>
                     </div>
                 </main>
             </div>
@@ -113,7 +120,7 @@
             <div class="lg:text-center">
                 <p class="mt-2 text-3xl font-bold leading-8 tracking-tight text-green-400 sm:text-4xl">Produtos</p>
                 <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-                    Temos um MIX de rodutos surpriendente com a maior qualidade e melhores preços.
+                    Temos um MIX de produtos surpreendente com a maior qualidade e melhores preços.
                 </p>
             </div>
 
@@ -157,7 +164,7 @@
                             </div>
                             <p class="ml-16 text-lg font-medium leading-6 text-gray-900">Milho</p>
                         </dt>
-                        <dd class="mt-2 ml-16 text-base text-gray-500">Captação constante de informações e feedbacks junto ao cliente que podem auxiliar em suas vendas.</dd>
+                        <dd class="mt-2 ml-16 text-base text-gray-500">Milho selecionados com garantia de qualidade.</dd>
                     </div>
 
                     <div class="relative">
@@ -171,7 +178,7 @@
                             </div>
                             <p class="ml-16 text-lg font-medium leading-6 text-gray-900">Soja</p>
                         </dt>
-                        <dd class="mt-2 ml-16 text-base text-gray-500">Sistemas automatizados de agendamento e lembretes de follow-up facilitando a vida dos vendedores e trazendo mais produtividade e resultados.</dd>
+                        <dd class="mt-2 ml-16 text-base text-gray-500">Soja selecionada com garantia de qualidade.</dd>
                         
                     </div>
                 </dl>
@@ -195,9 +202,15 @@
             <div class="col-span-2 sm:col-span-3 lg:col-span-2">
                 <img alt="CRM Simpled" class="h-8 w-auto sm:h-10" src="./assets/images/logo.png">
             </div>
+            <p class="mt-5 text-center text-blue-600"><a target="_blank" href="tel:+556240185258">SAC: 62 4018-5258</a></p>
             <p class="mt-5 text-center text-sm leading-6 text-slate-500">© 2022 Simpled. All rights reserved.</p>
         </div>
     </footer>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://wa.me/5562999516565" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+  z-index:1000;" target="_blank">
+<i style="margin-top:16px" class="fa fa-whatsapp"></i>
+</a>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
