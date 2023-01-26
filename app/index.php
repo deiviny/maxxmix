@@ -26,7 +26,7 @@
                                 <div class="flex w-full items-center justify-between md:w-auto">
                                     <a href="#">
                                         <span class="sr-only">Maxx Mix</span>
-                                        <img alt="Maxx Mix" class="h-8 w-auto sm:h-10" src="./assets/images/logo.png">
+                                        <img alt="Maxx Mix" class="h-30 w-auto sm:h-30 mt-10" src="./assets/images/logo.png">
                                     </a>
                                     <div class="-mr-2 flex items-center md:hidden">
                                         <button type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
@@ -104,7 +104,7 @@
                         <h1 class="text-2xl font-bold tracking-tight text-gray-900 sm:text-2xl md:text-2xl">
                             <span class="block text-green-400 xl:inline"> Whatsapp</span>
                             <span class="block xl:inline">(62) 99951-6565</span><br>
-                            <span class="block xl:inline">Amilton</span>
+                            <span class="block xl:inline">SAC</span>
                         </h1>
                     </div>
                 </main>
